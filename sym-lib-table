@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "jr-custom") (type "KiCad") (uri "${KIPRJMOD}/jr_custom.kicad_sym") (options "") (descr ""))
+	(lib (name "Samacsys") (type "KiCad") (uri "${KIPRJMOD}/Samacsys.kicad_sym") (options "") (descr ""))
+	(lib (name "Snapeda") (type "KiCad") (uri "${KIPRJMOD}/Snapeda.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Samacsys")(type "KiCad")(uri "${KIPRJMOD}/Samacsys.pretty")(options "")(descr ""))
+  (lib (name "Snapeda")(type "KiCad")(uri "${KIPRJMOD}/Snapeda.pretty")(options "")(descr ""))
+)
